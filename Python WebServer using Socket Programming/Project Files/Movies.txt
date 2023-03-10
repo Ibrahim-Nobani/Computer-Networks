@@ -1,0 +1,13 @@
+The GodFather ,9.2,80
+Harry Potter and the deathly hallows part 2,7.9,82
+12 Angry Men,8.9,50
+Shrek,7.8,90
+The Lord of the rings: The return of the king,9,105
+Avengers: Infinity War,8.4,80.5
+Fight Club,8.8,85
+Django Unchained, 8.3, 110
+Taxi Driver, 8.2, 65
+Interstellar, 8.6, 95
+The Silence of the lambs, 8.6, 77
+Forrest Gump, 8.8, 75
+Prisoners, 8.1, 94
